@@ -1,10 +1,10 @@
 <div align="center">
 
-  <a href="https://github.com/[GITHUB]">
+  <a href="https://github.com/Dario0318">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=[NOMBRE]&fontSize=42&fontColor=ffffff&fontAlignY=38&subtext=Senior%20Software%20Engineer%20%7C%20Backend%20%26%20Cloud%20Architecture&subfontSize=18&subfontAlignY=62" width="100%" alt="Header Banner"/>
   </a>
 
-  <a href="https://github.com/[GITHUB]">
+  <a href="https://github.com/Dario0318">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=238636&center=true&vcenter=true&width=600&height=40&lines=Senior+Backend+Developer+.NET;ASP.NET+Core+%26+Microservices+Architect;Distributed+Systems+%26+Cloud+Native;Database+Optimization+%26+Clean+Architecture" alt="Typing SVG" />
   </a>
 
@@ -32,7 +32,7 @@ Mi enfoque principal abarca la aplicación de **Clean Architecture, Domain-Drive
 
 ## 📌 About Me
 
-* 📍 **Ubicación:** [PAIS]
+* 📍 **Ubicación:** Perú
 * 💼 **Cargo Actual:** Senior Backend Developer / .NET Software Engineer en [EMPRESA]
 * 🎯 **Enfoque Técnico:** Sistemas de alta concurrencia, resiliencia con Polly, Microservicios y Cloud Native.
 * 🚀 **Actualmente profundizando:** Event-Driven Architecture, Apache Kafka, Kubernetes y Go.
@@ -108,7 +108,7 @@ Mi enfoque principal abarca la aplicación de **Clean Architecture, Domain-Drive
       <p>Plataforma para la gestión académica, control de asistencia, cobros y consolidación de reportes institucionales.</p>
       <p><b>Stack:</b> C#, .NET, Windows Forms, SQL Server, FastReport.</p>
       <p><code>Completado 🟢</code></p>
-      <p><a href="https://github.com/[GITHUB]/[REPOS_PROYECTO4]">🔗 Ver Repositorio</a></p>
+      <p><a href="https://github.com/Dario0318/[REPOS_PROYECTO4]">🔗 Ver Repositorio</a></p>
     </td>
   </tr>
 </table>
@@ -194,7 +194,7 @@ Mi enfoque principal abarca la aplicación de **Clean Architecture, Domain-Drive
     <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"/>
   </a>
   &nbsp;
-  <a href="https://github.com/[GITHUB]">
+  <a href="https://github.com/Dario0318">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
