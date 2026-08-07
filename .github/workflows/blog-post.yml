@@ -1,0 +1,20 @@
+name: Latest Blog Posts Workflow
+
+on:
+  schedule:
+    # Se ejecuta cada semana para actualizar el contenido
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Pull RSS Feed
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/[GITHUB]" # Reemplazar con tu Feed RSS (Dev.to, Medium, Hashnode, etc.)
+          max_post_count: 3
