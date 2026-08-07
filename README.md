@@ -136,15 +136,15 @@ Mi enfoque principal abarca la aplicación de **Clean Architecture, Domain-Drive
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=[GITHUB]&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=238636&text_color=c9d1d9" alt="GitHub Stats" width="400"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Dario0318&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=238636&text_color=c9d1d9" alt="GitHub Stats" width="400"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB]&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=238636&text_color=c9d1d9" alt="Top Languages" width="380"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dario0318&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=238636&text_color=c9d1d9" alt="Top Languages" width="380"/>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=[GITHUB]&theme=dark&hide_border=true&background=0d1117&ring=238636&fire=238636&currStreakLabel=238636" alt="GitHub Streak" width="100%"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dario0318&theme=dark&hide_border=true&background=0d1117&ring=238636&fire=238636&currStreakLabel=238636" alt="GitHub Streak" width="100%"/>
       </td>
     </tr>
   </table>
@@ -152,7 +152,7 @@ Mi enfoque principal abarca la aplicación de **Clean Architecture, Domain-Drive
   <br/>
 
   <h3>📉 Gráfico de Actividad de Contribuciones</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[GITHUB]&theme=github-compact&bg_color=0d1117&color=238636&line=238636&point=ffffff&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dario0318&theme=github-compact&bg_color=0d1117&color=238636&line=238636&point=ffffff&hide_border=true" alt="Activity Graph" width="100%"/>
 
   <br/><br/>
 
