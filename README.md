@@ -106,3 +106,128 @@ Mi enfoque abarca el ciclo completo del software: desde la captura de requerimie
 ---
 
 ## 💼 Experiencia & Ámbitos de Desarrollo
+## 📂 Proyectos Destacados
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏢 Core ERP & Facturación Electrónica</h3>
+      <p>Sistema empresarial para la gestión de producción e integración con facturación electrónica y ERP externo (Odoo).</p>
+      <p><b>Tecnologías:</b> C#, ASP.NET Core, SQL Server, Stored Procedures, REST APIs, XML.</p>
+      <p><b>Estado:</b> <code>En producción 🟢</code></p>
+      <p><a href="https://github.com/[GITHUB]/[REPOS_PROYECTO1]">🔗 Ver Repositorio</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💼 Portafolio Profesional Interactivo</h3>
+      <p>Aplicación Web Single Page (SPA) moderna desarrollada con selector multilingüe dinámico y gestión de temas.</p>
+      <p><b>Tecnologías:</b> Angular, TypeScript, HTML5, CSS3, Vercel.</p>
+      <p><b>Estado:</b> <code>Completado 🟢</code></p>
+      <p><a href="https://[PORTAFOLIO]">🌐 Ver Demo En Vivo</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 ML Raw Material Estimator</h3>
+      <p>Módulo con modelos de Machine Learning integrados al sistema de manufactura para la predicción automática de requerimientos en órdenes de producción.</p>
+      <p><b>Tecnologías:</b> C#, .NET, Python, SQL Server.</p>
+      <p><b>Estado:</b> <code>En producción 🟢</code></p>
+      <p><a href="https://github.com/[GITHUB]/[REPOS_PROYECTO3]">🔗 Ver Repositorio</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏫 EduControl ERP Escolar</h3>
+      <p>Plataforma para la administración integral de instituciones educativas, calificaciones, asistencia y facturación interna.</p>
+      <p><b>Tecnologías:</b> C#, Windows Forms, SQL Server, FastReport.</p>
+      <p><b>Estado:</b> <code>Completado 🟢</code></p>
+      <p><a href="https://github.com/[GITHUB]/[REPOS_PROYECTO4]">🔗 Ver Repositorio</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📜 Certificaciones
+## 🗺️ Roadmap Profesional
+
+- [x] **C# / .NET Core / ASP.NET Core APIs** `✔ Aprendido`
+- [x] **Bases de Datos Relacionales (SQL Server, T-SQL, Stored Procedures, Optimization)** `✔ Aprendido`
+- [x] **Frontend Moderno (Angular, TypeScript, State Management)** `✔ Aprendido`
+- [x] **Integraciones de Sistemas y Facturación Electrónica** `✔ Aprendido`
+- [ ] **Docker / Contenedores & Azure Cloud Deployments** `🔄 Aprendiendo`
+- [ ] **Arquitectura Limpia (Clean Architecture) & DDD** `🔄 Aprendiendo`
+- [ ] **Event-Driven Architecture (RabbitMQ / Apache Kafka)** `🎯 Próximo objetivo`
+- [ ] **Sistemas Distribuidos y Kubernetes** `🎯 Próximo objetivo`
+
+---
+
+## 🧠 Actualmente Aprendiendo
+
+<table border="0">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" width="100%" alt="Azure"/><br/>
+      <sub><b>Cloud & Serverless</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="100%" alt="Docker"/><br/>
+      <sub><b>Containerization</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Microservices-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" width="100%" alt="Microservices"/><br/>
+      <sub><b>Distributed Systems</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge&logo=clean-code&logoColor=white" width="100%" alt="Clean Architecture"/><br/>
+      <sub><b>Maintainable Code</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/DDD-333333?style=for-the-badge&logo=diagram&logoColor=white" width="100%" alt="DDD"/><br/>
+      <sub><b>Domain-Driven Design</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" width="100%" alt="RabbitMQ"/><br/>
+      <sub><b>Message Brokers</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" width="100%" alt="Redis"/><br/>
+      <sub><b>Distributed Caching</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" width="100%" alt="Kubernetes"/><br/>
+      <sub><b>Orchestration</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📬 Contacto
+
+<div align="center">
+
+  <a href="https://linkedin.com/in/[LINKEDIN]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:[EMAIL]">
+    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://[PORTAFOLIO]">
+    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/[GITHUB]">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+
+  <sub><i>"Simplicity is prerequisite for reliability."</i> — Edsger W. Dijkstra</sub>
+
+</div>
