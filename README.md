@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/Dario0318">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=[NOMBRE]&fontSize=42&fontColor=ffffff&fontAlignY=38&subtext=Senior%20Software%20Engineer%20%7C%20Backend%20%26%20Cloud%20Architecture&subfontSize=18&subfontAlignY=62" width="100%" alt="Header Banner"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=Dario&fontSize=42&fontColor=ffffff&fontAlignY=38&subtext=Senior%20Software%20Engineer%20%7C%20Backend%20%26%20Cloud%20Architecture&subfontSize=18&subfontAlignY=62" width="100%" alt="Header Banner"/>
   </a>
 
   <a href="https://github.com/Dario0318">
